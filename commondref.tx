@@ -3,3 +3,10 @@ sudo apt install docker.io -y
 sudo snap install docker
 sudo systemctl status docker
 sudo docker --version
+sudo docker version
+sudo 
+
+
+
+docker pull busybox
+docker pull alpine
